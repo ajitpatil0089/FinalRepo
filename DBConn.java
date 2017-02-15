@@ -20,6 +20,7 @@ public class DBConn {
 		while(rs.next())
 		{
 			System.out.println("Student id "+rs.getInt(1)+" Student name "+rs.getString(2));
+			//System.out.println("Here we made changes at line number 23");
 		}
 	}
 
