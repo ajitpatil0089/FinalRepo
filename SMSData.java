@@ -47,6 +47,10 @@ public class SMSData {
 
 }
 
+<<<<<<< HEAD
 
 
 from gitlocalrepo
+=======
+from git/finalRepo
+>>>>>>> branch 'master' of https://github.com/ajitpatil0089/FinalRepo
